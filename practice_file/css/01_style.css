@@ -1,0 +1,29 @@
+.primary_L{
+    background: #4B80E1;
+    border-radius: 2px;
+    border-width: 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 24px;
+    padding: 8px 16px;
+}
+.primary_L:hover{
+    background: #3662C1;
+}
+.primary_L:active{
+    background-color: #0050B3;
+}
+.primary_L:disabled{
+    background: #F2F3F7;
+}
+.primary_L a{
+    color: #fff;
+    text-decoration: none;
+}
+.primary_L a:disabled{
+    color: rgba(0,0,0,0.24);
+    text-decoration: rgba(0,0,0,0.24);
+}
+
