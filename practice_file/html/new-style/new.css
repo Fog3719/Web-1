@@ -1,0 +1,28 @@
+.box{
+    border-radius: 10px;
+    background: #f5feff;
+    box-shadow: inset 11px 11px 22px #c2c9c9, 
+                inset -11px -11px 22px #ffffff;
+    width: 300px;
+    height: 300px;
+     margin: 0 auto;
+}
+body{
+    background-color: #f5feff;
+}
+.box-2{
+    border-radius: 8px;
+background: #f5feff;
+box-shadow:  6px 6px 12px #d0d8d9, 
+             -6px -6px 12px #ffffff;
+             width: 60px;
+             height: 30px;
+             margin: 0px 8px 0px 8px;
+             float: left;
+}
+.nav{
+    float: left;
+}
+li{
+    list-style: none;
+}
